@@ -11,4 +11,13 @@ In the future this section may also contain papers, should I release any.
 
 * [Cloudy with a Chance of Misalignment](./21.10.28.bc3.cloudywithchangeofmisalignment.pdf), presented at BeerCon 3, 21/10/28 - [video](https://www.youtube.com/watch?v=Ekku7HC4xmU)
 
+### Disclaimer
+
+All references credited where known. Any mis-attributions or overlooked credit is accidental, please contact me if any concerns.
+
+Any of my original work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+![Creative Commons logo](./cclogo.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License")
+
 ## /fin
+
