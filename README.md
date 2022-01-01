@@ -9,7 +9,7 @@ In the future this section may also contain papers, should I release any.
 
 ## Presentations
 
-* [Cloudy with a Chance of Misalignment](./21.10.28.bc3.cloudywithchangeofmisalignment.pdf), presented at BeerCon 3, 21/10/28 - [video](https://www.youtube.com/watch?v=Ekku7HC4xmU)
+* [Cloudy with a Chance of Misalignment](./21.10.28.bc3.cloudywithchanceofmisalignment.pdf), presented at BeerCon 3, 21/10/28 - [video](https://www.youtube.com/watch?v=Ekku7HC4xmU)
 
 ### Disclaimer
 
